@@ -1,0 +1,20 @@
+#
+# To create:
+# > conda env create -v -f THIS_FILE
+#
+prefix: conda-alignment-env
+channels:
+- conda-forge
+- bioconda
+- nodefaults
+dependencies:
+- biopython    = 1.76
+- fastqc       = 0.11.9
+- gffcompare   = 0.11.2
+- gffread      = 0.11.7
+- hisat2       = 2.1.0
+- pigz
+- python       = 3.7.6
+- samtools     = 1.9
+- stringtie    = 2.1.1
+- trimmomatic  = 0.39
