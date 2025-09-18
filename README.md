@@ -19,7 +19,7 @@ If you use these scripts, please cite this work using the following Zenodo DOI:
 The repository is organized into the following modules:  
 
 ### 1️⃣ [QC, Reads Trimming, Mapping, and Quantification](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/tree/main/01.Genome_size_estimation)  
-- Based on Woolfenden, H. *et al.* (2024).  
+- From Woolfenden, H. *et al.* (2024).  
   *A dataset of tissue-specific gene expression dynamics during seed development in Brassica.*  
   Figshare. https://doi.org/10.6084/m9.figshare.27854361  
 
