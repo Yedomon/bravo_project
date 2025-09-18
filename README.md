@@ -4,7 +4,7 @@ Here we summarized the scripts used for the transcriptome profiling analyses con
 
 Please refer to the following zenodo link for proper citation:
 
-[![DOI](https://github.com/Yedomon/bravo_project/blob/main/zenodo.4717617.svg)](https://zenodo.org/badge/latestdoi/xxxxx) 
+[![DOI](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/blob/main/zenodo.4717617.svg)](https://zenodo.org/badge/latestdoi/322282589) 
 
 The repository is organized as follows:
 
