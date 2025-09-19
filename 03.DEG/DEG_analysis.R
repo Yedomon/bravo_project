@@ -40,7 +40,7 @@ saveRDS(dds, "ExpressionSet_endosperm_only.RDS")
 # ------------------------------------------------------------------------------ #
 # PCA analysis
 # ------------------------------------------------------------------------------ #
-rld <- rlog(dds)  # rlogTransformation() is deprecated
+rld <- rlog(dds)  
 data <- plotPCA(rld, intgroup = c("Species", "Stage"), returnData = TRUE)
 
 # Extract variance explained
@@ -182,3 +182,4 @@ bar_endo +
 # For venn diagram use: https://bioinformatics.psb.ugent.be/webtools/Venn/
 # Use the DEG lists generated per stage above
 # ------------------------------------------------------------------------------ #
+
