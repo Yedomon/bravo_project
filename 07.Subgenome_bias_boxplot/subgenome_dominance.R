@@ -25,6 +25,8 @@ pacman::p_load(
   cowplot
 )
 
+# --- Data preprocessing: long-format transformation, metadata parsing, subgenome assignment (A/C), TPM filtering, and log2-transformation for downstream analysis ---
+
 tpm_data = read.csv("zho_tpm_data.csv", header = TRUE)
 
 df_tidy <- tpm_data %>%
@@ -114,6 +116,7 @@ combined_seedcoat_plot <- cowplot::plot_grid(
   rel_widths = c(1,1,1,1)
 )
 
+# Save
 ggsave(
   filename = "seedcoat_subgenome_boxplots.png",
   plot = combined_seedcoat_plot,
@@ -139,6 +142,7 @@ ggsave(
 ## Tissue: Embryo
 ############################################################
 
+# A function to generate the plots
 plot_embryo_stage <- function(stage_name) {
   df_tidy %>%
     filter(Organ == "Embryo", Stage == stage_name) %>%
@@ -188,6 +192,7 @@ ggsave("embryo_subgenome_boxplots.svg", combined_embryo_plot, width = 16, height
 ## Tissue: Endosperm
 ############################################################
 
+# A function to generate the plots
 plot_endosperm_stage <- function(stage_name) {
   df_tidy %>%
     filter(Organ == "Endosperm", Stage == stage_name) %>%
@@ -297,5 +302,6 @@ ggsave(
 ############################################################
 # End of Script
 ############################################################
+
 
 
