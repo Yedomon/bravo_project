@@ -54,8 +54,7 @@ For questions or collaborations, please contact:
 
 ## 📖 Citation  
 
-If you use these scripts, please cite this work using the following Zenodo DOI:  ⚠️ To be modified
-
-[![DOI](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/blob/main/zenodo.4717617.svg)](https://zenodo.org/badge/latestdoi/322282589)  
+If you use these scripts, please cite this work using the following Zenodo DOI: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17791004.svg)](https://doi.org/10.5281/zenodo.17791004)  
 
 ---
