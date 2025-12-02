@@ -48,7 +48,7 @@ df_tidy <- tpm_data %>%
   filter(Subgenome %in% c("A", "C")) %>%      #  KEEP ONLY A and C
   filter(TPM >= 1) %>%
   mutate(
-    log2TPM = log2(TPM + 1)
+    log2TPM = log2(TPM + 1)  # change this to 0, 5, and 10 respectively
   )
 
 df_tidy
@@ -297,4 +297,5 @@ ggsave(
 ############################################################
 # End of Script
 ############################################################
+
 
