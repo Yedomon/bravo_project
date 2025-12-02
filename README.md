@@ -54,7 +54,7 @@ For questions or collaborations, please contact:
 
 ## 📖 Citation  
 
-If you use these scripts, please cite this work using the following Zenodo DOI: 
+If you use these scripts, please cite this work using the following Zenodo link: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17791004.svg)](https://doi.org/10.5281/zenodo.17791004)  
 
 ---
