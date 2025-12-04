@@ -5,7 +5,7 @@ This repository contains scripts used for transcriptome profiling analyses of tw
 - 🟡 **Zhongshuang (ZS11)** – large seed size  
 
 ---
-
+![img](https://img.shields.io/badge/github-repo-blue?logo=github) ![img](https://img.shields.io/badge/github-repo-blue?logo=github)
 ## 📂 Repository Structure  
 
 The repository is organized into the following modules:  
