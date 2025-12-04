@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" />
-  <img src="https://img.shields.io/badge/Python-3.7.6-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.7.6-yellow?logo=python" />
   <img src="https://img.shields.io/badge/Miniconda3-darkgreen?logo=anaconda" />
   <img src="https://img.shields.io/badge/R-4.2.2-blue?logo=R" />
   <img src="https://img.shields.io/badge/Zenodo-Repo-blue?logo=zenodo" />
