@@ -1,6 +1,6 @@
 <p align="center">
 
-   <img src="https://github.com/Yedomon/R-for-geographic-map-Session-1/blob/master/img/Gemini_Generated_Image_1r78yi1r78yi1r78-removebg-pr.png" />
+   <img src="https://github.com/Yedomon/R-for-geographic-map-Session-1/blob/master/img/Gemini_Generated_Image_1r78yi1r78yi1r78-removebg-preview.png" />
 
 </p>
 
