@@ -1,8 +1,7 @@
 <p align="center">
-
-# 🌱 Transcriptome Profiling of *Brassica napus* Seed Size Development  
-
+  <h1>🌱 Transcriptome Profiling of <i>Brassica napus</i> Seed Size Development</h1>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" />
