@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>🌱 Transcriptome Profiling of <i>Brassica napus</i> Seed Size Development</h1>
+  <h1> Transcriptome Profiling of <i>Brassica napus</i> Seed Size Development</h1>
 </p>
 
 
