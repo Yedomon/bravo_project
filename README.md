@@ -46,9 +46,6 @@ The repository is organized into the following modules:
 ### 6️⃣ [Seed Size Area Boxplot](https://github.com/Yedomon/bravo_project/tree/main/06.Seed_area_boxplot)  
 📦 Visualization of seed size distribution across genotypes.  
 
-### 7️⃣ [Subgenome Bias Boxplot](https://github.com/Yedomon/bravo_project/tree/main/07.Subgenome_bias_boxplot)  
-🅐 vs 🅒 Comparison of transcript expression between *B. napus* subgenomes.  
-
 ---
 
 ## ⚖️ License  
