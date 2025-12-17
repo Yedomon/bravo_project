@@ -68,6 +68,6 @@ For questions or collaborations, please contact:
 ## 📖 Citation  
 
 If you use these scripts, please cite this work using the following Zenodo link: 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17791004.svg)](https://doi.org/10.5281/zenodo.17791004)  
+[![DOI](https://zenodo.org/badge/1059702133.svg)](https://doi.org/10.5281/zenodo.17791003)
 
 ---
